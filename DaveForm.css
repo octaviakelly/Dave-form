@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: steelblue;
+}
+h1{
+    text-align: center;
+}
+
+form{
+ 
+   
+   display: flex;
+   flex-direction: column; 
+   align-items: center;
+}
+
+
+input{
+    width: 25%;
+    margin-bottom: 10px;
+    
+}
+
+.subm{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    font-weight: bold;
+}
+
+h3{
+    justify-content: center;
+    text-align: center;
+}
+
+.summary{
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+
+
+
+
